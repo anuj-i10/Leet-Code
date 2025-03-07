@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/anuj-i10/Leet-Code/tree/master/0085-maximal-rectangle) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/anuj-i10/Leet-Code/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/anuj-i10/Leet-Code/tree/master/0085-maximal-rectangle) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/anuj-i10/Leet-Code/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -21,4 +23,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/anuj-i10/Leet-Code/tree/master/0085-maximal-rectangle) |
+## Binary Search
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/anuj-i10/Leet-Code/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/anuj-i10/Leet-Code/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/anuj-i10/Leet-Code/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/anuj-i10/Leet-Code/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->

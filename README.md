@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/anuj-i10/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anuj-i10/Leet-Code/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/anuj-i10/Leet-Code/tree/master/0016-3sum-closest) |
 | [0085-maximal-rectangle](https://github.com/anuj-i10/Leet-Code/tree/master/0085-maximal-rectangle) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/anuj-i10/Leet-Code/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Dynamic Programming
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/anuj-i10/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anuj-i10/Leet-Code/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/anuj-i10/Leet-Code/tree/master/0016-3sum-closest) |
 ## Greedy
 |  |
 | ------- |
@@ -83,4 +85,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anuj-i10/Leet-Code/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/anuj-i10/Leet-Code/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->

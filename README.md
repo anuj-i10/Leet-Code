@@ -39,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/anuj-i10/Leet-Code/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/anuj-i10/Leet-Code/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->

@@ -46,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/anuj-i10/Leet-Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anuj-i10/Leet-Code/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/anuj-i10/Leet-Code/tree/master/0012-integer-to-roman) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/anuj-i10/Leet-Code/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/anuj-i10/Leet-Code/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/anuj-i10/Leet-Code/tree/master/0012-integer-to-roman) |
 ## Recursion
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anuj-i10/Leet-Code/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/anuj-i10/Leet-Code/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
